@@ -3,7 +3,7 @@ Simulation of a chance-constrained model predictive control (MPC) framework in [
 
 <p align="center">
   <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="45%">
-  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="50%">
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla_T.gif" width="50%">
 </p>
 
 ## Acknowledgement
