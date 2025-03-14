@@ -2,8 +2,8 @@
 Simulation of a chance-constrained model predictive control (MPC) framework in [CARLA](https://carla.org/). source code for the paper "[Recursively Feasible Chance-Constrained Model Predictive Control Under Gaussian Mixture Model Uncertainty](https://ieeexplore.ieee.org/document/10745535)"
 
 <p align="center">
-  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="40%" style="margin-right: 20%;"> 
-  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla_T.gif" width="43%">
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="40%" style="margin-right: 10%;" />
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla_T.gif" width="43%" />
 </p>
 
 ## Acknowledgement
