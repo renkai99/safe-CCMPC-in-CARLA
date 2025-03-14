@@ -1,0 +1,17 @@
+pyyaml
+psutil
+more-itertools
+docplex
+slycot
+control
+networkx
+shapely
+# carla==0.9.13
+
+# documentation and testing
+ipywidgets
+pygame
+black
+sphinx
+myst-parser
+torchinfo
