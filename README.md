@@ -1,7 +1,10 @@
 # safe-CCMPC-in-CARLA
 Simulation of a chance-constrained model predictive control (MPC) framework in [CARLA](https://carla.org/). source code for the paper "[Recursively Feasible Chance-Constrained Model Predictive Control Under Gaussian Mixture Model Uncertainty](https://ieeexplore.ieee.org/document/10745535)"
 
-![til](https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif)
+<p align="center">
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="45%">
+  <img src="https://github.com/renkai99/renkai99.github.io/blob/main/assets/img/publication_preview/carla.gif" width="50%">
+</p>
 
 ## Acknowledgement
 This repository is modified from a co-author Colin Chen's [repository](https://github.com/fireofearth/carla-collect).
