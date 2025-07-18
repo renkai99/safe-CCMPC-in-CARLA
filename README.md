@@ -1,4 +1,6 @@
 # safe-CCMPC-in-CARLA
+[![DOI](https://img.shields.io/badge/DOI-10.1109/TCST.2024.3477089-green.svg)](https://doi.org/10.1109/TCST.2024.3477089) [![Preprint](https://img.shields.io/badge/Preprint-arXiv-blue.svg)](https://arxiv.org/abs/2401.03799)
+
 Simulation of a chance-constrained model predictive control (MPC) framework with a prediction model [Trajectron++](https://github.com/StanfordASL/Trajectron-plus-plus), in [CARLA simulator](https://carla.org/). Source code for the paper "[Recursively Feasible Chance-Constrained Model Predictive Control Under Gaussian Mixture Model Uncertainty](https://ieeexplore.ieee.org/document/10745535)"
 
 <p align="center">
