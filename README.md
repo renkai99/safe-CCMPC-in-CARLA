@@ -16,14 +16,14 @@ For the installation guide, please check the original [repository](https://githu
 ## References of the work
 Please cite the original paper when using any part of this code. BibTeX citation data:
 ```
-@ARTICLE{10745535,
+@ARTICLE{Ren2024TCST,
   author={Ren, Kai and Chen, Colin and Sung, Hyeontae and Ahn, Heejin and Mitchell, Ian M. and Kamgarpour, Maryam},
   journal={IEEE Transactions on Control Systems Technology}, 
   title={Recursively Feasible Chance-Constrained Model Predictive Control Under Gaussian Mixture Model Uncertainty}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-14},
+  year={2025},
+  volume={33},
+  number={4},
+  pages={1193-1206},
   doi={10.1109/TCST.2024.3477089}}
 ```
 
